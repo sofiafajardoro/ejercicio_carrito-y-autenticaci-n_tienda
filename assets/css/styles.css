@@ -1,0 +1,58 @@
+body {
+    font-family: "Helvetica Neue", Arial, sans-serif;
+    background-color: #ffffff;
+    color: #333333;
+}
+
+.navbar {
+    background-color: #ffffff !important;
+    border-bottom: 1px solid #e5e5e5;
+}
+
+.navbar-brand,
+.nav-link {
+    color: #000000 !important;
+    font-weight: 500;
+    letter-spacing: 1px;
+}
+
+.nav-link:hover {
+    text-decoration: underline;
+}
+
+h2 {
+    font-weight: 400;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+}
+
+
+.btn {
+    border-radius: 0;
+    text-transform: uppercase;
+    font-size: 0.8rem;
+    letter-spacing: 1px;
+}
+
+.btn-primary,
+.btn-success {
+    background-color: #000000;
+    border-color: #000000;
+}
+
+.btn-primary:hover,
+.btn-success:hover {
+    background-color: #333333;
+    border-color: #333333;
+}
+
+.btn-link {
+    color: #000000;
+}
+
+.producto-card {
+    border: none;
+}
+
+.producto-img {
+    width: 100
